@@ -1,0 +1,30 @@
+{
+	"questions": [{
+	    "question": "What does AngularJS extend?",
+	    "answer": "HTML"
+	}, {
+	    "question": "Often reffered to as the glue between the template and the controller?",
+	    "answer": "Scope"
+	}, {
+	    "question": "ng-app is a type of what?",
+	    "answer": "Directive"
+	}, {
+	    "question": "Angular binds data to HTML by using what?",
+	    "answer": "Expressions"
+	}, {
+	    "question": "The ______ is a container for different parts of the application?",
+	    "answer": "Module"
+	},{
+	    "question": "The controller is used to do what?",
+	    "answer": "Add behavior to the $scope object"
+	},{
+	    "question": "Services allow for what?",
+	    "answer": "You can use services to organize a share code across your app"
+	},{
+	    "question": "This API is used to observe data mutations.",
+	    "answer": "$watch"
+	},{
+	    "question": "This formats the value of an expressin for display to the user.",
+	    "answer": "Filter"
+	}]
+}
